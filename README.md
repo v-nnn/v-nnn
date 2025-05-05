@@ -2,8 +2,8 @@
 
 My name is Vishav and I am a developer interested in Python, JavaScript, and Web Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on LuminaPDF, a Safari Web Extension which will convert web PDFs into a dark mode equivalent.
+- 🌱 I’m currently learning web programming with cs50's Web Programming with Python and JavaScript.
 - 👯 I’m looking to collaborate on ...
 
 <!--
