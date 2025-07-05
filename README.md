@@ -1,6 +1,6 @@
 # Hi there, I'm Vishav Nandha 👋
 
-## Business Systems Analyst | Payroll & Financial Systems Specialist
+## Business Systems Analyst | Payroll & Financial Focus
 
 I'm a Fraser Health employee combining operational healthcare experience with technical skills to improve financial and payroll processes. Currently pursuing payroll specialization through the National Payroll Institute while developing data analysis solutions.
 
