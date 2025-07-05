@@ -1,13 +1,19 @@
 # Hi there, I'm Vishav Nandha 👋
 
-## Healthcare Professional & Developer
+## Business Systems Analyst | Payroll & Financial Systems Specialist
 
-I'm a Switchboard Operator at Fraser Health who combines frontline healthcare operations experience with software development skills. I bridge the gap between healthcare workflows and technical solutions.
+I'm a Fraser Health employee combining operational healthcare experience with technical skills to improve financial and payroll processes. Currently pursuing payroll specialization through the National Payroll Institute while developing data analysis solutions.
 
-- 🏥 Currently working at **Fraser Health Authority** as a Switchboard Operator
+---
+
+## 🎯 Current Focus
+
+- 📊 Studying Payroll Legislation Compliance at the National Payroll Institute of Canada
+- 🏥 Working at Fraser Health Authority - bringing insider knowledge of healthcare systems
 - 🌱 Learning **Web Programming with Python and JavaScript** through Harvard's CS50 course
-- 🔧 Developing projects that solve real healthcare workflow challenges
 - 🎓 Business minor from Simon Fraser University with ongoing Computing Science education
+
+---
 
 ## 🚀 Projects
 
@@ -30,6 +36,8 @@ Professional showcase of my projects and skills
 - Built with HTML, CSS, and JavaScript
 - [Visit Site](https://v-nnn.github.io/portfolio)
 
+---
+
 ## 💻 Technical Skills
 
 **Programming Languages:** JavaScript, Python, SQL, C, Java
@@ -40,19 +48,26 @@ Professional showcase of my projects and skills
 
 **Professional Skills:** Business Analysis, Systems Analysis, Healthcare Information Systems
 
+---
+
 ## 📚 Education & Certifications
 
 - 🎓 **Bachelor's Degree** - Simon Fraser University
   - Major in Criminology, Minor in Business
-- 🖥️ **Certificate in Computing Science** (In Progress) - Simon Fraser University
+- 🎓 Payroll Legislation Compliance - National Payroll Institute of Canada (In progress)
+- 🖥️ **Certificate in Computing Science** (In progress) - Simon Fraser University
 - 📜 **CS50's Introduction to Computer Science** - Harvard University
-- 📜 **CS50's Web Programming with Python and JavaScript** (In Progress) - Harvard
+- 📜 **CS50's Web Programming with Python and JavaScript** (In progress) - Harvard
 - 📜 **GitHub Foundations Certificate** - GitHub
 
-## 🌐 Connect With Me
+---
 
-- Portfolio: [v-nnn.github.io/portfolio](https://v-nnn.github.io/portfolio)
-- Email: [vishavnandha@hotmail.de](mailto:vishavnandha@hotmail.de)
+## 🤝 Connect With Me
+
+- 🌐 Portfolio: [v-nnn.github.io/portfolio](https://v-nnn.github.io/portfolio)
+- 📧 Work Email: vishav.nandha@fraserhealth.ca
+- 📧 Personal Email: [vishavnandha@hotmail.de](mailto:vishavnandha@hotmail.de)
+- 📍 Location: Surrey, BC, Canada
 
 ---
 
@@ -60,4 +75,4 @@ Professional showcase of my projects and skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-nnn&layout=compact&theme=tokyonight)
 
-👨‍💻 Currently looking for opportunities in Business Systems Analysis and Development
+💡 Currently seeking opportunities in Payroll Analysis and Financial Systems where I can leverage my Fraser Health experience, business education, and technical skills to improve payroll processes and data accuracy.
